@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     	<title>I Am Rey Dev</title>
+   </head>
+   <body>
+	<section>
+     		<h1>About</h1>
+        	<p>We happy to announce that we are ready to serve you</p>
+   	</section><section>
+     		<h2>Services</h2>
+        	<p>We happy to announce that we are ready to serve you</p>
+   	</section><section>
+     		<h3>Skill</h3>
+       		<p>We happy to announce that we are ready to serve you</p>
+   	</section><section>
+     		<h>4Contact</h4>
+        	<p>We happy to announce that we are ready to serve you</p>
+   	</section>
+<footer>
+     <p>Coded by Rey 2025</p>
+ </footer>
+</body>   
+</html> 
